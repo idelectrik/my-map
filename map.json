@@ -2952,13 +2952,18 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":70,
                  "id":74,
-                 "name":"WorkCulture",
+                 "name":"NeoRoom1",
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \n \"startWithAudioMuted\": true\n} "
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"WorkCulture"
+                         "value":"NeoRoom1"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -2966,14 +2971,9 @@
                          "value":"speaker"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Work Culture"
+                         "value":"NeoRoom1"
                         }],
                  "type":"tilelayer",
                  "visible":true,
