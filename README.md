@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Map Neo X Soat
 
 ![map](./map.png)
 
