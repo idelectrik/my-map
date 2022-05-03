@@ -1041,7 +1041,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"DaVinci"
+                         "value":"Room01"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1051,7 +1051,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"DaVinci"
+                         "value":"Room01"
                         }, 
                         {
                          "name":"silent",
@@ -1125,7 +1125,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"DaVinci"
+                         "value":"Room02"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1135,7 +1135,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"DaVinci"
+                         "value":"Room02"
                         }, 
                         {
                          "name":"silent",
