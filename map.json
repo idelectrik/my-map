@@ -1062,7 +1062,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{ \"StartWithAudioMuted\": true, \"StartWithVideoMuted\": true }"
+                         "value":"{\n  \"startWithAudioMuted\": true\n}"
                         }, 
                         {
                          "name":"jitsiRoom",
